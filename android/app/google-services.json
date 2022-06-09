@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575402491554",
+    "project_id": "anyone-akdeniz-cse",
+    "storage_bucket": "anyone-akdeniz-cse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575402491554:android:dfba51b80f63a85c10a1fb",
+        "android_client_info": {
+          "package_name": "com.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575402491554-kn8rkki56e29i3ghrhd17gg2n7sotkc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqfNP9B9hX3qWPGcoJKipI-VwAV7b7BWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575402491554-kn8rkki56e29i3ghrhd17gg2n7sotkc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
